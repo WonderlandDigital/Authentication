@@ -22,7 +22,7 @@ ip_dict = {ip[0].strip(): (ip[1].strip(), convert_to_datetime(ip[2].strip())) fo
 
 # Additional variables
 user_ip = socket.gethostbyname(socket.gethostname())
-tool = "mainfwame"
+tool = "TOOLS NAME HERE"
 expiration_warning_days = 7  # Adjust as needed
 
 # Additional initializations
